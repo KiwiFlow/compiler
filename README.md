@@ -1,4 +1,4 @@
 compile
 =======
 
-codes about compiler therory
+codes about compiler theory
