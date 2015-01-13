@@ -1,0 +1,18 @@
+{
+  int a;
+  bool b;
+  int c;
+  int d;
+  bool e;
+
+  printb(b);
+  printi(a);
+  a = a + 3333;
+  b = b && true;
+  a = a + c + d + 1000;
+  a = a + c + d + e;
+  
+  
+  
+  
+}
